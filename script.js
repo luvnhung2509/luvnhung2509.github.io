@@ -30,6 +30,11 @@ $(function()
 		name: "Khó Vẽ Nụ Cười",
 		url: "Musics/KVNC.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
+	}, {
+	        artist: "Thủy Tiên",
+		name: "Thư Gửi Anh",
+		url: "Musics/TGA.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
 	}];
 	
 	function shuffle(a) {
