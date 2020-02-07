@@ -25,6 +25,11 @@ $(function()
 		name: "Chờ Ngày Anh Nhận Ra Em",
 		url: "Musics/CNANRE.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
+	}, {
+	        artist: "ĐạtG X DuUên",
+		name: "Khó Vẽ Nụ Cười",
+		url: "Musics/KVNC.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
 	}];
 	
 	function shuffle(a) {
