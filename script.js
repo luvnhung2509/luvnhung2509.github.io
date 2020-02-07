@@ -236,7 +236,7 @@ $(function()
                 --currIndex;
             else
                 ++currIndex;
-        albumArt.find('img').attr('src', currArtwork);
+        albumArt.find('bg1.img').attr('src', currArtwork);
         }
     }
 
