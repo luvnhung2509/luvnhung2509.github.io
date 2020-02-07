@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
+		artist: "Thùy Chi",
+		name: "Chờ Ngày Anh Nhận Ra Em",
+		url: "Musics/CNANRE.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
 	}];
 	
