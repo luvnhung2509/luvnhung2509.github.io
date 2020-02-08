@@ -35,6 +35,11 @@ $(function()
 		name: "Thư Gửi Anh",
 		url: "Musics/TGA.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
+	}, {
+	        artist: "Martin Garrix feat. Bonn",
+		name: "High On Life",
+		url: "Musics/HOL.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74079480-a432c180-4a6a-11ea-9422-2d421576aad5.jpg"
 	}];
 	
 	function shuffle(a) {
