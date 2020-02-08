@@ -31,6 +31,11 @@ $(function()
 		url: "Musics/HTCN.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
 	}, {
+	        artist: "Vũ",
+		name: "Lạ Lùng",
+		url: "Musics/LL.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
+	}, {
 		artist: "Thùy Chi",
 		name: "Chờ Ngày Anh Nhận Ra Em",
 		url: "Musics/CNANRE.mp3",
