@@ -40,6 +40,11 @@ $(function()
 		name: "High On Life",
 		url: "Musics/HOL.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
+	}, {
+	        artist: "Hiền Hồ",
+		name: "Có Như Không Có",
+		url: "Musics/CNKC.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
 	}];
 	
 	function shuffle(a) {
