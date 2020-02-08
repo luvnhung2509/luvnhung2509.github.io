@@ -21,6 +21,16 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
+	        artist: "Hiền Hồ",
+		name: "Có Như Không Có",
+		url: "Musics/CNKC.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
+	}, {
+	        artist: "Đức Phúc",
+		name: "Hết Thương Cạn Nhớ",
+		url: "Musics/HTCN.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
+	}, {
 		artist: "Thùy Chi",
 		name: "Chờ Ngày Anh Nhận Ra Em",
 		url: "Musics/CNANRE.mp3",
@@ -40,11 +50,7 @@ $(function()
 		name: "High On Life",
 		url: "Musics/HOL.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
-	}, {
-	        artist: "Hiền Hồ",
-		name: "Có Như Không Có",
-		url: "Musics/CNKC.mp3",
-		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
+	
 	}];
 	
 	function shuffle(a) {
