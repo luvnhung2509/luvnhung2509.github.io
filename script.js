@@ -30,7 +30,8 @@ $(function()
 		name: "Thư Gửi Anh",
 		url: "Musics/TGA.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
-	},{     artist: "ĐạtG X DuUên",
+	}, {     
+		artist: "ĐạtG X DuUên",
 		name: "Khó Vẽ Nụ Cười",
 		url: "Musics/KVNC.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
@@ -38,6 +39,11 @@ $(function()
 	        artist: "Martin Garrix feat. Bonn",
 		name: "High On Life",
 		url: "Musics/HOL.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
+	}, {
+	        artist: "Hiền Hồ",
+		name: "Có Như Không Có",
+		url: "Musics/CNKC.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
 	}];
 	
