@@ -24,9 +24,9 @@ body
 #bg-artwork
 {
     position: fixed;
-    top: -35px;
+    top: -45px;
     right: -30px;
-    bottom: -35px;
+    bottom: -45px;
     left: -30px;
     background-image: url("./Background/bg1.jpg");
     background-repeat: no-repeat;
