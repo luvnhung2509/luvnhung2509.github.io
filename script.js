@@ -26,6 +26,11 @@ $(function()
 		url: "Musics/CNKC.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
 	}, {
+		artist: "Huỳnh Tú, Magazine",
+		name: "Đường Một Chiều",
+		url: "Musics/DMC.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74085686-458f3700-4aae-11ea-8273-4843097aae0f.jpg"
+	}, {
 	        artist: "Đức Phúc",
 		name: "Hết Thương Cạn Nhớ",
 		url: "Musics/HTCN.mp3",
