@@ -65,6 +65,12 @@ $(function()
 		name: "Mất Ngủ :v",
 		url: "Musics/NS.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
+	}, {
+	        artist: "VAN MORRISON",
+		name: "Days Like This",
+		url: "Musics/DLT.mp3",
+		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
+	
 	
 	}];
 	
