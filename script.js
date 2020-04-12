@@ -56,9 +56,9 @@ $(function()
 		url: "Musics/TGA.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74008361-36778e80-49b3-11ea-8bf4-e6f0315bf757.jpg"
 	}, {
-	        artist: "Martin Garrix feat. Bonn",
-		name: "High On Life",
-		url: "Musics/HOL.mp3",
+	        artist: "Damien Rice",
+		name: "Delicate",
+		url: "Musics/Delicate.mp3",
 		picture: "https://user-images.githubusercontent.com/60739224/74006542-93247a80-49ae-11ea-9315-1bdcedf4d667.jpg"
 	}, {
 	        artist: "Hảo Hồ",
